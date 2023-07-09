@@ -1,6 +1,8 @@
 # NEURAL NETWORKS & DEEP LEARNING
 
-AI_Animated.gif
+![AI_Animated](https://github.com/FMUMIN1/DEEP_LEARNING_CHALLENGE/assets/121820268/befe7cf6-8aeb-4532-ae86-8da088d21cb0)
+
+
 
 ### BACKGROUND 
 
